@@ -1,0 +1,11 @@
+BlackFox.Fake.BuildTask
+Fake.Core.Target
+Fake.IO.FileSystem
+Fake.DotNet.Cli
+Fake.Tools.Git
+Fake.DotNet.MSBuild
+Fake.Core.ReleaseNotes
+Fake.DotNet.AssemblyInfoFile
+Fake.DotNet.Paket
+Fake.JavaScript.Npm
+Fake.JavaScript.Yarn
